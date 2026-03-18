@@ -1,3 +1,5 @@
+> **Note:** This is a reference fork. The original upstream repository is the actively maintained version. This fork is kept for personal reference and is not actively developed.
+
 # PyInductor
 
 An unofficial Python port of Serge Stroobandt, ON4AA's ["Single-Layer Helical Round Wire Coil Inductor Calculator"](http://hamwaves.com/antennas/inductance.html)
